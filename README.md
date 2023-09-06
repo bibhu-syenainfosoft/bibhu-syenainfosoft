@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bibhudatta Behera <br>
+- 👀 I’m interested in Coding,Development,Developing WebApps<br>
+- 🌱 I’m currently working as an Associate Member Technical-JAVA at Syena Infosoft PVT LTD,Hyderabad,Telengana
