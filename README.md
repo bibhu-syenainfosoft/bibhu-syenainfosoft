@@ -1,3 +1,12 @@
-- 👋 Hi, I’m @Bibhudatta Behera(Software Developer Towards Fullstack)<br>
-- 👀 I’m interested in Coding,Development,Developing WebApps.<br>      Quicklearner,Highly Adaptable, Optimistic, Up-to speed in latest programming trends.<br>
-- 🌱 I’m currently working as an Associate Member Technical-JAVA at Syena Infosoft PVT LTD,Hyderabad,Telengana
+# 👋 Hi, I'm Bibhudatta Behera
+
+**💻 Software Developer | Java Full Stack Enthusiast**
+
+🔭 Currently working as **Associate Member Technical - Java** at **Syena Infosoft Pvt Ltd**, Hyderabad, Telangana  
+🌱 Passionate about building scalable web applications and exploring the latest in tech  .
+🚀 Quick learner, highly adaptable, up to speed in latest programming trends and always eager to grow.
+🧠 Interests:  
+- End to End Web Application Development  
+- Microservices & Cloud Technologies  
+- Clean Code & Scalable Architecture  
+- UI/UX with Angular  
