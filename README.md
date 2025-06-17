@@ -9,4 +9,7 @@
 - End to End Web Application Development  
 - Microservices & Cloud Technologies  
 - Clean Code & Scalable Architecture  
-- UI/UX with Angular  
+- UI/UX with Angular
+
+📫 Let's connect!  
+[LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/bibhudatta-behera-0b6bba225/))
